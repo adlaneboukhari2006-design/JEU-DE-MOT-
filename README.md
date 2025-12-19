@@ -18,6 +18,13 @@ Un jeu Wordle complet développé en C, incluant un mode de jeu classique et un 
 
 ### Compilation
 Ouvrez votre terminal dans le dossier du projet et exécutez :
+## Capture d execution 
+Mode joueur 
+<img width="1199" height="612" alt="Capture d&#39;écran 2025-12-19 174108" src="https://github.com/user-attachments/assets/ab247e04-7bfb-4835-8d2d-84c10e4df3a6" />
 
-```bash
-gcc main.c -o wordle
+Mode solveur 
+<img width="1449" height="611" alt="Capture d&#39;écran 2025-12-19 174318" src="https://github.com/user-attachments/assets/51f4e00d-c742-4e66-8e17-c0e8168c4ef0" />
+## Auteurs
+Temam Djaoued 
+Adlane boukhari 
+Anis Ouguenoune 
