@@ -2,6 +2,7 @@
 # Wordle Master & Solver en C
 
 Un jeu Wordle complet développé en C, incluant un mode de jeu classique et un **solveur intelligent** capable de déduire le mot mystère en filtrant dynamiquement un dictionnaire.
+<img width="1024" height="1536" alt="ChatGPT Image 20 déc  2025, 14_34_18" src="https://github.com/user-attachments/assets/f63f059b-3d66-4050-b3da-3ececc936aed" />
 
 ## 📋 Fonctionnalités
 
